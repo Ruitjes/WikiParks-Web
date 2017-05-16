@@ -1,0 +1,42 @@
+
+
+
+nav a {
+	color: white !important;
+	background-color: darkorange;
+}
+.navbar{
+	border: solid darkorange 1px;
+}
+.dropdown-toggle:hover{
+	background-color: orange !important;
+}
+.dropdown-toggle{
+	background-color: darkorange !important;
+}
+.dropdown-menu {
+	background-color: darkorange;
+	/*border-bottom: solid white 1px !important;*/
+}
+nav ul li a:hover{
+	background-color: orange !important;
+}
+.navbar-inverse .navbar-toggle {
+    border-color: white;
+}
+.navbar-inverse .navbar-toggle:hover {
+    background-color: orange;
+}
+ .navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+    border-color: white;
+}
+.navbar-inverse .navbar-toggle:focus, .navbar-inverse .navbar-toggle:hover {
+    background-color: orange;
+}
+.banner{
+	display: flex;
+	justify-content: center;
+}
+.navbar {
+	margin-bottom: 0px;
+}
