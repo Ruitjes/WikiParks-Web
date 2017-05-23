@@ -1,15 +1,26 @@
+<<<<<<< Updated upstream
 body{
 	background-image: url("img/park2.jpg");
 	background-size: cover;
 }
+=======
+
+>>>>>>> Stashed changes
 
 
 nav a {
 	color: white !important;
+<<<<<<< Updated upstream
 }
 .navbar{
 	border: solid darkorange 1px;
 	border-bottom: solid 2px white;
+=======
+	background-color: darkorange;
+}
+.navbar{
+	border: solid darkorange 1px;
+>>>>>>> Stashed changes
 }
 .dropdown-toggle:hover{
 	background-color: orange !important;
@@ -41,6 +52,7 @@ nav ul li a:hover{
 	justify-content: center;
 }
 .navbar {
+<<<<<<< Updated upstream
 	margin-bottom: 30px;
 }
 .navbar fixed-left{
@@ -61,3 +73,7 @@ h4{
 	margin: 20px;
 	margin-bottom: 10px;
 }
+=======
+	margin-bottom: 0px;
+}
+>>>>>>> Stashed changes
